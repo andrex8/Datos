@@ -1,6 +1,6 @@
 <?php
 //Datos para conectar a mysql
-$servername = "localhost";
+$servername = "127.0.0.1";
 $database = "Datos";
 $username = "root";
 $password = "zx18";
